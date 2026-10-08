@@ -1,0 +1,14 @@
+ĐỌC TRUYỆN - HƯỚNG DẪN
+
+Thư mục gồm 7 file: index.html, manifest.webmanifest, sw.js, 3 file .png và file này. Giữ nguyên tên file.
+
+1. Giải nén file zip, được thư mục "doc-truyen-app".
+2. Vào https://app.netlify.com/drop rồi kéo CẢ THƯ MỤC vào. Đây sẽ là một trang mới, không phải trang sổ chi tiêu.
+3. Netlify cho một link dạng https://ten-gi-do.netlify.app
+4. Mở link đó bằng CHROME (không mở trong Zalo, Facebook hay app Claude), đợi vài giây, vào menu ba chấm > Cài đặt ứng dụng.
+5. Cần có giọng đọc tiếng Việt trong điện thoại: Cài đặt > tìm "Chuyển văn bản thành giọng nói" > chọn Dịch vụ giọng nói của Google > cài dữ liệu Tiếng Việt.
+
+TÍNH NĂNG DỊCH: cần có mạng. Bấm nút "Dịch" trong truyện, chọn ngôn ngữ gốc rồi bắt đầu. Bản dịch lưu thành truyện mới trên kệ. Dịch bằng dịch vụ miễn phí trên mạng nên chất lượng chỉ ở mức tạm ổn và đôi khi bị giới hạn.
+ĐỌC TIẾNG ANH: trong truyện, mở mục "Ngôn ngữ đọc", chọn English rồi chọn giọng. Máy cần có giọng tiếng Anh trong Cài đặt > Chuyển văn bản thành giọng nói.
+
+Truyện lưu trên chính thiết bị, trang này không có sao lưu nên đừng xóa dữ liệu trình duyệt.
